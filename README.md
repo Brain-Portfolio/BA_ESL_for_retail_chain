@@ -5,4 +5,4 @@ Comprehensive business analysis project for Electronic Shelf Label system implem
 
 Includes: BPMN process modeling, As-Is/To-Be analysis, requirements documentation, and economic impact assessment.
 
-**Tools used**: Camunda Modeler (BPMN), MySQL Workbench (data modeling)
+**Tools used**:  MS Office, Camunda Modeler (BPMN), MySQL Workbench (data modeling)
